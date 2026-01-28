@@ -1,0 +1,5 @@
+valor = int(input('Digite o primeiro valor:'))
+valor1 = int(input('Digite o segundo valor:'))
+valor2 = int(input('Digite o terceiro valor:'))
+soma = (valor**2) + (valor1**2) + (valor2**2)
+print(f'A soma do quadrado dos valores: {valor}, {valor1}, {valor2} é {soma}')
